@@ -18,5 +18,5 @@ Analyze patterns in 30-day hospital readmissions among patients with diabetes an
  - Generate risk score and assign risk levels to flag high-risk patients. 
 
 ## Link
-GitHubb Analysis Page: https://tamiyad.github.io/Diabetes-Readmission-within-30-days-Analysis/
-Website for for Project: https://tamiyaindata.weebly.com/diabetes-readmission-analysis.html
+- GitHubb Analysis Page: https://tamiyad.github.io/Diabetes-Readmission-within-30-days-Analysis/
+- Website for for Project: https://tamiyaindata.weebly.com/diabetes-readmission-analysis.html
