@@ -2,7 +2,7 @@
 ## Objective
 Analyze patterns in 30-day hospital readmissions among patients with diabetes and identify key factors contributing to early readmission. The goal is to enable healthcar providers to design targeted intervention strategies that reduce preventable readmissions.
 ## Measure
-- **Metrics:**  Percentage of diabetes patients(see definition below) who are readmitted within 30 days of discharge
+**Metrics:**  Percentage of diabetes patients(see definition below) who are readmitted within 30 days of discharge
 ## Methodology
 **Identifying Diabetes Patients**
 - Inclusion criteria: Any of the three diagnosis fields (diag_1, diag_2, diag_3) contains ICD-9 code indicating diabetes.
