@@ -1,9 +1,9 @@
 # Diabetes-Readmission-within-30-days-Analysis
-**Objective**
+## Objective
 Analyze patterns in 30-day hospital readmissions among patients with diabetes and identify key factors contributing to early readmission. The goal is to enable healthcar providers to design targeted intervention strategies that reduce preventable readmissions.
-**Measure**
+## Measure
 - **Metrics:**  Percentage of diabetes patients(see definition below) who are readmitted within 30 days of discharge
-**Methodology**
+## Methodology
 **Identifying Diabetes Patients**
 - Inclusion criteria: Any of the three diagnosis fields (diag_1, diag_2, diag_3) contains ICD-9 code indicating diabetes.
 - Relevant ICD-9 codes:
@@ -17,6 +17,6 @@ Analyze patterns in 30-day hospital readmissions among patients with diabetes an
  - Engineer feature indicators to capture patient characteristics and risk factors.
  - Generate risk score and assign risk levels to flag high-risk patients. 
 
-**Links**
+## Link
 GitHubb Analysis Page: https://tamiyad.github.io/Diabetes-Readmission-within-30-days-Analysis/
 Website for for Project: https://tamiyaindata.weebly.com/diabetes-readmission-analysis.html
